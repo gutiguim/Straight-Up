@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">StraightUp</string>
+    <string name="name">Name</string>
+    <string name="id" translatable="false">ID</string>
+    <string name="photoDescription">Profile</string>
+    <string name="qrCodeDescription">QRCode to be read</string>
+    <string name="fidelityPointsButton">Fidelity List</string>
+    <string name="title_activity_fidelity_list">FidelityListActivity</string>
+</resources>

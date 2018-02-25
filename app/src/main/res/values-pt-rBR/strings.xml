@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Nome</string>
+    <string name="photoDescription">Perfil</string>
+    <string name="qrCodeDescription">QRCode a ser lido</string>
+    <string name="fidelityPointsButton">Lista de Fidelidade</string>
+</resources>
